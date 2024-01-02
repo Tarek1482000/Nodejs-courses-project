@@ -1,0 +1,14 @@
+let courses = [
+  {
+    id: 1,
+    title: "Java",
+    price: 1500,
+  },
+  {
+    id: 2,
+    title: "node",
+    price: 3850,
+  },
+];
+
+module.exports = { courses };
